@@ -336,16 +336,16 @@ transition: all 0.7s ease;
   font-weight: 600;
   margin:0.5em 0;
 }
-.google-map iframe {
-  width: 100%;
-  height: 500px;
-  border: none;
-}
 .contact-section {
   text-align: center;
   padding: 4em 0;
   background: #2c2c2c;
 }
+.contact-section p {
+  font-size: 1.1em;
+  color: #f9f9f9;
+  line-height: 1.6em;
+ }
 .contact-section h3{
   font-size: 2.5em;
   text-transform: capitalize;
